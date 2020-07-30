@@ -1,5 +1,5 @@
 function Quiz(questions) {
-    this.score = 75;
+    this.score = 60;
     this.questions = questions;
     this.questionIndex = 0;
 }
