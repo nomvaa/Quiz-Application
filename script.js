@@ -105,7 +105,7 @@ function storeHighscore(name, score) {
         highScores = highScores + `${name}=${score.toString()}`;
     }
     localStorage.setItem("highscore", highScores);
-    window.location.href = "highscore.html";
+    window.location.href = "highscores.html";
 }
  
 // create questions here
