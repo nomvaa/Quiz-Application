@@ -110,11 +110,11 @@ function storeHighscore(name, score) {
  
 // create questions here
 var questions = [
-    new Question("Hyper Text Markup Language Stand For?", ["JavaScript", "XHTML","CSS", "HTML"], "HTML"),
-    new Question("Which language is used for styling web pages?", ["HTML", "JQuery", "CSS", "XML"], "CSS"),
-    new Question("Which is not a JavaScript Framework?", ["Python Script", "JQuery","Django", "NodeJS"], "Django"),
-    new Question("Which is used for Connect To Database?", ["PHP", "HTML", "JS", "All"], "PHP"),
-    new Question("Webdevtrick.com is about..", ["Web Design", "Graphic Design", "SEO & Development", "All"], "All")
+    new Question("What does Hyper Text Markup Language Stand For?", ["JavaScript", "XHTML","CSS", "HTML"], "HTML"),
+    new Question("What is used for styling pages?", ["HTML", "JQuery", "CSS", "XML"], "CSS"),
+    new Question("Which is not a JavaScript Framework?", ["Python Script", "JQuery","NotePad", "NodeJS"], "NotePad"),
+    new Question("What do we use to get our activities and homeworks", ["GitLab", "GitHub", "GitNote", "All"], "GitLab"),
+    new Question("What is short for Javascript", ["CSS", "JSS", "JS", "HTML"], "JS")
 ];
  
 // create quiz
