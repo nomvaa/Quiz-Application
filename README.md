@@ -1,3 +1,4 @@
+<h1>Quiz</h1>
 <B>User Story</b><br />
 AS A coding bootcamp student<br>
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores<br>
