@@ -1,4 +1,7 @@
 <h1>Quiz</h1>
+This application is a timed code quiz application with multiple-choice questions. It runs in the browser and feature dynamically updated HTML and CSS powered by Javascript. It also is stores in localstorage to retrieve highscores. 
+
+
 <B>User Story</b><br />
 AS A coding bootcamp student<br>
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores<br>
@@ -19,11 +22,5 @@ THEN I can save my initials and score<br>
 The following animation demonstrates the application functionality:<br>
 <BR>
 
-Review<br>
-You are required to submit the following for review:<br>
-<br>
-
-The URL of the functional, deployed application.<br>
-
-
-The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+<h1>Link to Application</h1>
+https://nomvaa.github.io/Quiz-Application/
